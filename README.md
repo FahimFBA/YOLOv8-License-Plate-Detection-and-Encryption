@@ -2,6 +2,9 @@
 
 This project demonstrates a pipeline for detecting license plates in images using YOLOv8 and encrypting the detected regions with a Chaotic Logistic Map encryption algorithm. It provides a user-friendly interface built with Streamlit.
 
+>[!TIP]
+> You can directly test the application on the web using the following link: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/fahimfba/yolov8-license-plate-detection-and-encryption/main/app.py)
+
 ## Features
 
 - **License Plate Detection**: Uses the YOLOv8 model to detect license plates in uploaded images.

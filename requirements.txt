@@ -6,3 +6,5 @@ opencv-python
 numpy
 requests
 ultralytics
+omegaconf
+opencv-python-headless
